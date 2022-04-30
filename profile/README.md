@@ -1,9 +1,9 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://www.thebarcode.io/content/images/size/w2000/2022/04/banners-barcode-08-2.jpg" alt="cover" />
+<img width="100%" src="https://www.thebarcode.io/content/images/size/w2000/2022/04/banners-barcode-08-2.jpg" alt="cover" />
 </div>
 
-[![en](https://img.shields.io/badge/lang-en-pink.svg)](https://github.com/TheBarcodeProject/.github/blob/main/README.md)
-[![es](https://img.shields.io/badge/lang-es-purple.svg)](https://github.com/TheBarcodeProject/.github/blob/main/README.es.md)
+[![en](https://img.shields.io/badge/lang-en-pink.svg)](https://github.com/TheBarcodeProject/.github/tree/main/profile#readme)
+[![es](https://img.shields.io/badge/lang-es-purple.svg)](https://github.com/TheBarcodeProject/.github/blob/main/profile/README.es.md)
 
 
 <h1> This is The Barcode </h1>
@@ -22,7 +22,7 @@ We believe that feeding terabytes of data into an inescrutable algorithm will no
 
 <h2> Technology Stack </h2>
 
-<img width="100%" height = "250px" src="https://www.thebarcode.io/content/images/size/w1000/2022/04/banners-barcode-09.jpg" alt="stack" />
+<img width="100%"  src="https://www.thebarcode.io/content/images/size/w1000/2022/04/banners-barcode-09.jpg" alt="stack" />
 
 
 

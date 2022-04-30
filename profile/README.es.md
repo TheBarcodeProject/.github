@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://www.thebarcode.io/content/images/size/w2000/2022/04/banners-barcode-08-2.jpg" alt="cover" />
+<img width="100%" src="https://www.thebarcode.io/content/images/size/w2000/2022/04/banners-barcode-08-2.jpg" alt="cover" />
 </div>
 
 [![en](https://img.shields.io/badge/lang-en-pink.svg)](https://github.com/TheBarcodeProject/.github/tree/main/profile#readme)
@@ -22,7 +22,7 @@ Creemos que para poner en alto el buen nombre de la estadística no basta con me
 
 <h2> Stack de Tecnologías </h2>
 
-<img width="100%" height = "250px" src="https://www.thebarcode.io/content/images/size/w1000/2022/04/banners-barcode-09.jpg" alt="stack" />
+<img width="100%" src="https://www.thebarcode.io/content/images/size/w1000/2022/04/banners-barcode-09.jpg" alt="stack" />
 
 
 
